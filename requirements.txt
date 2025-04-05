@@ -1,0 +1,11 @@
+numpy
+matplotlib
+scipy
+scikit-learn
+torch
+requests
+h5py
+notebook
+ipykernel
+pycbc
+gwpy
